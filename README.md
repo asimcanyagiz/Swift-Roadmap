@@ -17,7 +17,6 @@ Bu repo, Swift öğrenmek isteyenlere yardımcı olmayı hedeflemektedir. Başla
 - [For Döngüleri]()
 - [While Döngüleri]()
 - [Fonksiyonlar]()
-- [Fonksiyon Parametreleri]()
 - [Diziler (Arrays)]()
 - [Sözlükler (Dictionaries)]()
 - [Enumeration (Enum) Türleri]()
