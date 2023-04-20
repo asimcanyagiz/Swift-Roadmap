@@ -38,16 +38,24 @@ Bu repo, Swift öğrenmek isteyenlere yardımcı olmayı hedeflemektedir. Başla
 - [SwiftUI ve Combine Framework]()
 - [Swift Package Manager ve Cocoapods]()
 - [Unit Test ve UI Test Yazma]()
-- [Continuous Integration (CI) ve Continuous Deployment (CD)]()
 
 ## Öğrenme Kaynakları 📚
 
-Swift programlama dilini öğrenmeye yardımcı olacak kaynaklar:
+### Dökümantasyonlar 📚
 
-- [Apple Developer: Swift Dokümantasyonu](https://developer.apple.com/swift/resources/)
+- [Apple Developer: Swift Documentation](https://developer.apple.com/swift/resources/)
 - [Swift.org](https://swift.org/documentation/)
+
+### Türkçe Öğrenme Kaynakları 📚
+
+- [Hacking with Swift Türkçe](https://www.hackingwithswift.com/read/tr)
+- [BTK-Swift İle IOS Programlama](https://www.btkakademi.gov.tr/portal/course/swift-ile-ios-programlama-12273)
+- [Patika](https://academy.patika.dev/paths/swift-ile-ios-programlama-patikasi)
+
+### İngilizce Öğrenme Kaynakları 📚
+
+
 - [Hacking with Swift](https://www.hackingwithswift.com/)
 - [Ray Wenderlich](https://www.raywenderlich.com/ios)
 - [Swift by Sundell](https://www.swiftbysundell.com/)
-- [Stanford Üniversitesi: Developing iOS Apps with Swift](https://cs193p.sites.stanford.edu/)
-- [Swift ile ilgili YouTube kanalları ve videoları]("")
+- [Stanford University: Developing iOS Apps with Swift](https://cs193p.sites.stanford.edu/)
