@@ -4,15 +4,15 @@ Bu bölümde, Swift programlama dilinde kullanılan veri tiplerini açıklayan T
 
 ## 📚 İçindekiler
 
-- [🇹🇷 Türkçe Kaynaklar](#turkce-kaynaklar)
-  - [🎥 YouTube](#youtube)
-  - [📝 Medium](#medium)
-  - [💻 Hacking with Swift](#hacking-with-swift)
-  - [🔍 Patika](#patika)
-  - [📱 Mobilhanem](#mobilhanem)
-  - [🚀 Geleceği Yazanlar](#gelecegi-yazanlar)
+<a href="#turkce-kaynaklar">🇹🇷 Türkçe Kaynaklar</a>
+<a href="#youtube">🎥 YouTube</a>
+<a href="#medium">📝 Medium</a>
+<a href="#hacking-with-swift-tr">💻 Hacking with Swift</a>
+<a href="#patika">🔍 Patika</a>
+<a href="#mobilhanem">📱 Mobilhanem</a>
+<a href="#gelecegi-yazanlar">🚀 Geleceği Yazanlar</a>
 
-## 🇹🇷 Türkçe Kaynaklar
+## 🇹🇷 Türkçe Kaynaklar {#turkce-kaynaklar}
 
 ### 🎥 YouTube {#youtube}
 
@@ -23,7 +23,7 @@ Bu bölümde, Swift programlama dilinde kullanılan veri tiplerini açıklayan T
 
 - [Swift ile Başlangıç: Veri Tipleri, Sabitler ve Değişkenler](https://medium.com/turkishkit/değişkenler-ve-sabitler-92222870efde)
 
-### 💻 Hacking with Swift {#hacking-with-swift}
+### 💻 Hacking with Swift {#hacking-with-swift-tr}
 
 - [Veri Tipleri](https://www.hackingwithswift.com/read/tr/0/3/veri-tipleri)
 
@@ -38,3 +38,4 @@ Bu bölümde, Swift programlama dilinde kullanılan veri tiplerini açıklayan T
 ### 🚀 Geleceği Yazanlar {#gelecegi-yazanlar}
 
 - [Swift Diline Hızlı Bir Giriş](https://gelecegiyazanlar.turkcell.com.tr/konu/egitim/swift-ile-ios-101/swift-diline-hizli-bir-giris)
+
