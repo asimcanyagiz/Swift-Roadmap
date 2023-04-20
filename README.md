@@ -30,7 +30,7 @@ Bu repo, Swift öğrenmek isteyenlere yardımcı olmayı hedeflemektedir. Başla
 - [Protokoller ve Delegasyon]()
 - [Nesne Yönelimli Programlama (OOP)]()
 - [Hata Yönetimi ve `throw` / `catch` kullanımı]()
-- [Genişletilebilirlik ve Extension'lar]()
+- [Extension'lar]()
 - [Generics ve Associated Types]()
 - [Closures ve Higher-Order Functions]()
 - [Memory Management (ARC, Strong / Weak / Unowned Referanslar)]()
