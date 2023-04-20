@@ -9,7 +9,6 @@ Bu bölümde, Swift programlama dilinde kullanılan operatörleri açıklayan T�
   - <a href="#medium">📝 Medium</a>
   - <a href="#hacking-with-swift-tr">💻 Hacking with Swift</a>
   - <a href="#patika">🔍 Patika</a>
-  - <a href="#mobilhanem">📱 Mobilhanem</a>
   - <a href="#gelecegi-yazanlar">🚀 Geleceği Yazanlar</a>
 
 
@@ -31,10 +30,6 @@ Bu bölümde, Swift programlama dilinde kullanılan operatörleri açıklayan T�
 ### 🔍 Patika
 
 - [Operatörler](https://academy.patika.dev/courses/swift/swift-fundamentals-operators)
-
-### 📱 Mobilhanem
-
-- [Swift Operatörler](https://www.mobilhanem.com/swift-operatörler/)
 
 ### 🚀 Geleceği Yazanlar
 
