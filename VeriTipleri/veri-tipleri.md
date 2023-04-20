@@ -4,13 +4,14 @@ Bu bölümde, Swift programlama dilinde kullanılan veri tiplerini açıklayan T
 
 ## 📚 İçindekiler
 
-<a href="#turkce-kaynaklar">🇹🇷 Türkçe Kaynaklar</a>
-<a href="#youtube">🎥 YouTube</a>
-<a href="#medium">📝 Medium</a>
-<a href="#hacking-with-swift-tr">💻 Hacking with Swift</a>
-<a href="#patika">🔍 Patika</a>
-<a href="#mobilhanem">📱 Mobilhanem</a>
-<a href="#gelecegi-yazanlar">🚀 Geleceği Yazanlar</a>
+- <a href="#turkce-kaynaklar">🇹🇷 Türkçe Kaynaklar</a>
+  - <a href="#youtube">🎥 YouTube</a>
+  - <a href="#medium">📝 Medium</a>
+  - <a href="#hacking-with-swift-tr">💻 Hacking with Swift</a>
+  - <a href="#patika">🔍 Patika</a>
+  - <a href="#mobilhanem">📱 Mobilhanem</a>
+  - <a href="#gelecegi-yazanlar">🚀 Geleceği Yazanlar</a>
+
 
 ## 🇹🇷 Türkçe Kaynaklar {#turkce-kaynaklar}
 
