@@ -36,7 +36,6 @@ Bu repo, Swift öğrenmek isteyenlere yardımcı olmayı hedeflemektedir. Başla
 - [Memory Management (ARC, Strong / Weak / Unowned Referanslar)]()
 - [Concurrency ve Multithreading (GCD, OperationQueue)]()
 - [SwiftUI ve Combine Framework]()
-- [Sürüm Kontrolü ve Git]()
 - [Swift Package Manager ve Cocoapods]()
 - [Unit Test ve UI Test Yazma]()
 - [Continuous Integration (CI) ve Continuous Deployment (CD)]()
