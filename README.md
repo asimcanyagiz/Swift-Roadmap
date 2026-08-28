@@ -1,12 +1,25 @@
 # Swift Learning Roadmap 🚀📱
 
-Bu repo, Swift öğrenmek isteyenlere yardımcı olmayı hedeflemektedir. Başlangıçtan ileri seviyeye, temel kavramlar, veri yapıları, algoritmalar ve mobil uygulama geliştirme konularını içerir. Swift öğrenmeye kararlıysanız, bu kaynak rehber niteliğindedir.
+Swift öğrenen geliştiriciler için başlangıçtan ileri seviyeye uzanan, ücretsiz ve açık kaynak bir Türkçe öğrenme rehberi. Konular kısa anlatımlar ve örneklerle temel dil bilgisinden mimari, eşzamanlılık ve test konularına ilerler.
+
+> Bu kaynak topluluk katkısına açıktır. Bir hata bulduysanız veya bir konuyu geliştirmek istiyorsanız [katkı rehberine](CONTRIBUTING.md) bakabilirsiniz.
 
 ## İçindekiler 📖
 
 - [Temel Konular](#temel-konular)
 - [İleri Seviye Konular](#ileri-seviye-konular)
-- [Kaynaklar](#kaynaklar)
+- [Önerilen Öğrenme Sırası](#önerilen-öğrenme-sırası-)
+- [Öğrenme Kaynakları](#öğrenme-kaynakları-)
+
+## Önerilen Öğrenme Sırası 🧭
+
+1. Veri tipleri, operatörler ve kontrol akışı
+2. Fonksiyonlar, koleksiyonlar, enum, struct ve class
+3. Nesne yönelimli programlama, protokoller ve extension'lar
+4. Hata yönetimi, generics, closures ve bellek yönetimi
+5. Concurrency, SwiftUI, paket yönetimi ve testler
+
+Her konuyu okuduktan sonra küçük bir örneği sıfırdan yazmanız ve davranışını değiştirerek tekrar denemeniz önerilir.
 
 ## Temel Konular 🌱
 
@@ -25,7 +38,7 @@ Bu repo, Swift öğrenmek isteyenlere yardımcı olmayı hedeflemektedir. Başla
 
 ## İleri Seviye Konular 🚀
 
-- [Protokoller ve Delegasyon](https://github.com/asimcanyagiz/Swift-Roadmap/blob/main/İleriSeviyeKonular/ProtokollerVeDelegasyon.md)
+- [Protokoller ve Delegasyon](protokoller-delegasyon.md)
 - [Nesne Yönelimli Programlama (OOP)](https://github.com/asimcanyagiz/Swift-Roadmap/blob/main/Nesne-Yonelimli-Programlama/nesne-yonelimli-programlama.md)
 - [Hata Yönetimi ve `throw` / `catch` kullanımı](https://github.com/asimcanyagiz/Swift-Roadmap/blob/main/Hata-Yonetimi/hata-yonetimi.md)
 - [Extension'lar](https://github.com/asimcanyagiz/Swift-Roadmap/blob/main/Extensionlar/extensionlar.md)
@@ -52,8 +65,13 @@ Bu repo, Swift öğrenmek isteyenlere yardımcı olmayı hedeflemektedir. Başla
 
 ### İngilizce Öğrenme Kaynakları 📚
 
-
 - [Hacking with Swift](https://www.hackingwithswift.com/)
 - [Ray Wenderlich](https://www.raywenderlich.com/ios)
 - [Swift by Sundell](https://www.swiftbysundell.com/)
 - [Stanford University: Developing iOS Apps with Swift](https://cs193p.sites.stanford.edu/)
+
+## Katkı ve Geri Bildirim 🤝
+
+- İçerik hataları ve güncelleme önerileri için issue açabilirsiniz.
+- Yeni bir konu veya kapsamlı düzeltme için önce kısa bir issue ile kapsamı konuşmanız önerilir.
+- Katkı kuralları: [CONTRIBUTING.md](CONTRIBUTING.md)

@@ -1,0 +1,25 @@
+name: İçerik düzeltmesi
+description: Hatalı, eski veya anlaşılması güç bir Swift Roadmap içeriğini bildirin.
+title: "[İçerik]: "
+labels:
+  - documentation
+body:
+  - type: input
+    id: page
+    attributes:
+      label: İlgili sayfa
+      description: Dosya yolunu veya bağlantıyı paylaşın.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Sorun
+      description: Neyin hatalı, eski veya anlaşılması güç olduğunu açıklayın.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Önerilen düzeltme
+      description: Varsa önerdiğiniz yeni anlatımı veya örneği paylaşın.
