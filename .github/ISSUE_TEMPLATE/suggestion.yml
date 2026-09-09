@@ -1,0 +1,30 @@
+name: Suggest a resource or share feedback / Öneri ve geri bildirim
+description: Suggest a focused improvement or tell us about learning with the roadmap.
+title: "[Feedback]: "
+labels:
+  - documentation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        English and Turkish are welcome. Please check existing issues first.
+        Türkçe veya İngilizce yazabilirsiniz. Önce mevcut issue'ları kontrol edin.
+  - type: input
+    id: topic
+    attributes:
+      label: Topic or page / Konu veya sayfa
+      description: Share the relevant file path or topic, or say it applies to the whole roadmap.
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Suggestion or experience / Öneri veya deneyim
+      description: What helped, what was unclear, or what small change would improve learning?
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Supporting links (optional) / İlgili bağlantılar (isteğe bağlı)
+      description: For a new resource, explain its relevance and note any account or payment requirement. Only share information you want public.
